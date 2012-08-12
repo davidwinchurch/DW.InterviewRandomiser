@@ -49,6 +49,7 @@ namespace InterviewRandomiser
                     }
                     stringBuilders[2 + j].Append(brand + ",");
                     brandMentions[brandIndex]++;
+                    brands += brand;
                 }
             }
 
